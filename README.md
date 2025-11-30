@@ -1,2 +1,6 @@
 # Distance_Deflation
-Reference Implementation of the Algorithms in “Euclidean Distance Deflation under High-Dimensional Heteroskedastic Noise”
+This repository implements the algorithms from:
+
+**[Euclidean Distance Deflation under High-Dimensional Heteroskedastic Noise](https://arxiv.org/abs/2507.18520)**  
+*Keyi Li, Boris Landa*  
+arXiv:2507.18520
