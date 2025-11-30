@@ -7,7 +7,7 @@ name = "distance-deflation"
 version = "0.1.0"
 description = "Algorithm implementation for 'Euclidean Distance Deflation under High-Dimensional Heteroskedastic Noise'."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.7"
 
 authors = [
   { name = "Keyi Li" }
