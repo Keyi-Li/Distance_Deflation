@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "distance-deflation"
+version = "0.1.0"
+description = "Algorithm implementation for 'Euclidean Distance Deflation under High-Dimensional Heteroskedastic Noise'."
+readme = "README.md"
+requires-python = ">=3.9"
+
+authors = [
+  { name = "Keyi Li" }
+]
+
+dependencies = [
+  "numpy==1.26.4",
+  "matplotlib==3.8.3",
+  "scikit-learn==1.7.2",
+  "scipy==1.12.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/Keyi-Li/Distance_Deflation"
+Repository = "https://github.com/Keyi-Li/Distance_Deflation"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["distance_deflation*"]
+
