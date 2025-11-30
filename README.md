@@ -18,6 +18,7 @@ Method Highlights:
 Install the package directly from GitHub:
 ```bash
 pip install git+https://github.com/Keyi-Li/Distance_Deflation.git
+```
 
 ## Demo
 Please see ![Demo.ipynb](https://github.com/Keyi-Li/Distance_Deflation/blob/main/Demo.ipynb)for a general demonstration of the algorithm.
