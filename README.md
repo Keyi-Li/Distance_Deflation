@@ -21,5 +21,4 @@ pip install git+https://github.com/Keyi-Li/Distance_Deflation.git
 ```
 
 ## Demo
-Run the [demo](https://github.com/Keyi-Li/Distance_Deflation/blob/main/Demo.ipynb) in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Keyi-Li/Distance_Deflation/blob/main/Demo.ipynb)
+Please check the [DEMO](https://github.com/Keyi-Li/Distance_Deflation/blob/main/Demo.ipynb) for a simple example of how to use the algorithm. 
